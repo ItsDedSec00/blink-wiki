@@ -12,21 +12,35 @@ tags:
 
 MISTRIX is an adults-only web app that runs personalised, written BDSM
 Domina sessions. You open it in your browser, or install it to your home
-screen, and it works the same either way. You sign in, configure your
-interests, and your Domina runs sessions for you on demand. Every session
-is text and images. There is no live voice, no live video, no other users
-in the room.
+screen, and it works the same either way. On Android there is also a
+companion app, free, which you download from **You > Android app**. It
+adds the one thing a browser cannot do: your Domina can act on the
+phone itself, outside the chat. Every one of those actions is off until
+you switch it on. See
+[Mistrix Companion](../features/mistrix-bridge.md).
+
+You sign in, configure your interests, and your Domina runs sessions for
+you on demand. Every session is text and images. There is no live voice,
+no live video, no other users in the room.
 
 ## What a session looks like
 
-A session is a sequence of cards in chat:
+A session happens inside your ordinary chat thread, not on a screen of
+its own:
 
-1. An **intro card** that sets the scene, tone, and expectations.
-2. A series of **task cards**, each one a directive: do this, then this,
-   then this. Tasks can require items, ask for photos, or pause.
-3. An **outro card** that closes the scene.
-4. A **rating screen** where you tell the Domina how it landed. The
-   rating affects her mood and your XP.
+1. She **proposes a session** in a sheet with a title, a difficulty, and
+   the focus areas she has in mind.
+2. You confirm, and the chat enters **session mode**. She writes
+   directives, you carry them out and report back in your own words, and
+   she adapts as you go.
+3. Either of you closes the scene. She proposes an end, or you tap
+   **End session**.
+4. A **Session Complete** card lands in the chat with your XP, any
+   level-up, and her verdict on how you served.
+
+You can leave a rating from 1 to 5 on the way out. It is private
+feedback and it changes nothing: her own verdict is what sets your XP
+and her mood.
 
 The chat is conversational outside of sessions too. You can talk to
 your Domina between sessions, and she can propose a new one when you

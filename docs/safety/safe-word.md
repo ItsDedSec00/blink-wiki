@@ -9,15 +9,23 @@ tags:
 
 # Safe Word
 
-The safe word is your hard-stop. It is always reachable during a
-session, no matter what the screen looks like. Using it ends the
+The safe word is your hard-stop. It is always reachable, in a session
+or out of one, no matter what the screen looks like. Using it ends the
 session immediately, no questions, no penalty.
 
 ## Where to find it
 
 During any active session, a crimson **Safe Word** button sits in the
-bar at the top of the chat. It is not allowed to be hidden by any
-modal, animation, drawer, or task screen.
+bar at the top of the chat. With a preset Domina it is a pill with
+your safe word on it; with your own Domina it is a round button. A
+full-screen page you open during a session, such as End session,
+carries its own copy in its own header, so it cannot sit between you
+and the stop signal.
+
+Outside a session it is still one tap away. Tap your Domina's name in
+the header to open the chat menu, and the crimson **Safe word** button
+is the first button in the footer of that panel. It works whether or
+not a scene is running.
 
 Tapping it opens one short page, **End the scene now**, with your
 current safe word printed on the button that ends the session and a
@@ -27,18 +35,27 @@ the only thing between you and a full stop.
 If you ever can't see it, that is a bug. Close and re-open the app;
 nothing about your session is lost in transit.
 
+The safe word does not wait for the connection either. Tapping it
+stops the scene on your device straight away and shows her reply. If
+the message cannot reach us at that moment, it is held on your device
+and sent as soon as you are back online. The app tells you when that
+happens.
+
 ## What happens when you tap
 
 - The session is marked ended immediately.
 - The Domina sends a short neutral acknowledgement.
 - No XP is awarded.
 - No rating screen is shown.
-- If you session with a **personal Domina**, her current mood resets
-  to **Neutral** (it does not drift to disappointed). Preset Dominas
-  always run in neutral mood regardless.
-- The session **does** count against your daily quota. On Free, this
-  means a safeworded session uses up your one session for the day.
-  Safeword early if you need to, but know the cost.
+- Her mood resets to **neutral**. It does not drift to displeased.
+  That holds for your own Domina and for a preset Domina alike: every
+  Domina keeps her own mood towards you, and the safe word puts it
+  back in the middle.
+- The session **does** count against your quota. On Free that quota is
+  one session per rolling 24 hours, so a safeworded session uses up
+  your slot and the next one opens 24 hours after this one started,
+  not at midnight. If you try sooner, the app shows a countdown to the
+  exact moment. Safeword early if you need to, but know the cost.
 
 ## Choosing your safe word
 
@@ -59,8 +76,8 @@ your settings.
 
 The safe word is for **ending the scene**. Not for fine-tuning.
 
-For fine-tuning (slow down, skip a task, change tone), write a short
-message between task cards. See
+For fine-tuning (slow down, skip a task, change tone), write her a
+short message in the chat. See
 [Writing Good Messages](../communication/writing-good-messages.md).
 
 For full stop, use the safe word.
@@ -73,6 +90,12 @@ she gives you reassurance and a couple of small grounding directives,
 water, breathing, warmth, and tells you to deal safely with anything
 you still have on. She does not pick the session apart unless you bring
 it up, and she does not propose a new one in that beat.
+
+If MISTRIX is holding the key to your Chaster lock, you are offered
+the hand-back on the spot, without having to ask her for it. Handing
+back means MISTRIX stops being the keyholder and your lock becomes a
+self-lock: still running, still locked, but yours. It is not an
+unlock. See [Chastity](../features/chastity.md).
 
 If you would rather log off, log off. There is no required follow-up.
 

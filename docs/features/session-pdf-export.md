@@ -16,14 +16,16 @@ one-page record of the session, not a transcript of it.
 
 ## How to download
 
-The button sits on the **Session Complete** card, the one that appears
-in your chat when a session finishes.
+The link sits on the **Session Complete** card, the one that appears in
+the chat with your own Domina when a session finishes.
 
 1. Scroll back to that card in the chat.
 2. Tap **Export as PDF**.
 3. Save the file.
 
-There is no limit on how many PDFs you can make.
+There is no other way in. There is no session history screen, so if you
+want a PDF you go back through the conversation to the card. There is
+no limit on how many PDFs you can make.
 
 ## What is included
 
@@ -49,9 +51,10 @@ every task line. The layout follows the dark look of the app.
 ## Who can export one
 
 PDF export is part of the Premium Plus plan. On Free and Premium the
-button is not there. The summary of every finished session still stays
-readable in your session history on those plans; the PDF is the way to
-take one out of MISTRIX and keep it.
+link is not there. The Session Complete card itself stays in the chat
+on every plan, with the XP you earned, her verdict on how you did and
+her closing remark. The PDF adds the written summary and is the way to
+take a session out of MISTRIX and keep it.
 
 ## File handling
 

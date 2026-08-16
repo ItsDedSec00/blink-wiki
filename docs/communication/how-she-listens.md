@@ -19,18 +19,36 @@ getting better sessions.
 
 | What she has | Where it comes from | Effect |
 |---|---|---|
-| Identity | Her name, tone, intensity, traits, specialties, current mood | Sets her voice |
-| You | Your level (cosmetic), age, gender and anatomy if set | Shapes how she refers to you and what she proposes |
-| Interests | Every fetish you marked Curious / Like / Love | Pool she proposes from |
+| Identity | Her name, tone, speech style, intensity, traits, specialties, current mood | Sets her voice |
+| You | Your level, age, gender and anatomy if set | Sets the severity she calibrates to, and shapes how she refers to you |
+| Interests | Your Fetish map ratings, plus what she has learned about you | Pool she proposes from |
 | Hard limits | Your hard-limits list | Forbidden ground, every turn |
 | Inventory | Toys, clothing, accessories you marked available | Items she can require |
-| Memory | A condensed view of your last few sessions and prior chats | Continuity |
+| Goal and rules | Your long-term goal and your standing rules, from the Goal tab | Soft direction, plus rules she holds you to |
+| Memory | The notes she has written about you, picked for what you just said | Continuity |
+| Clock | Your device's local date, time and time zone, plus a stamp on every message you send | Lets her greet the right hour and tell a reply five minutes later from one three days later |
 | This message | What you just typed | The fresh signal |
+
+Two of those rows do more than they look like they do.
+
+**Your level is not decoration.** She is told your level on the 1 to 10
+scale and which band it sits in, and she is told to match the severity
+of what she demands to it. A level 9 subject gets asked for more than a
+level 2 one, in ordinary chat as much as in a session.
+
+**Your interests are not only what you ticked.** She adjusts the pool as
+she learns, so a fetish you never rated can come into it and one you
+rated lightly can fall out. Your crosses and your hard limits are never
+touched by that. See
+[Interest levels](../fetishes/interest-levels.md), and
+[Goal and standing rules](./standing-rules.md) for the Goal tab.
 
 What she does **not** have automatic access to:
 
 - Your real-time mood unless you say it.
-- Your location, time of day, or schedule unless you mention it.
+- Your location or your schedule, unless you mention them. She does
+  know what time it is for you, so she can greet the hour, notice it is
+  late, and answer if you ask her what day it is.
 - The contents of older chats with other Dominas.
 - Anything you removed from your inventory or interests.
 

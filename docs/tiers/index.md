@@ -12,7 +12,8 @@ tags:
 # Tiers and Charms
 
 MISTRIX has three plans and an in-app currency called **Charms**. Plans
-unlock features. Charms power one-off actions inside paid features.
+unlock features and set your daily allowances. Charms pay for one-off
+actions, on any plan including Free.
 
 ## Pages in this section
 
@@ -28,8 +29,9 @@ unlock features. Charms power one-off actions inside paid features.
 |---|---|---|---|
 | Sessions / 24h | 1 | unlimited | unlimited |
 | Personal Dominas | 0 | 1 | 3 |
-| Preset Dominas | 5 (free tier) | all | all |
-| Session images | preset portraits only | generated for each session | generated for each session |
+| Preset Dominas | 5 of 15 | all 15 | all 15 |
+| Chat models | Classic | Classic, Quicksilver, Velvet | Classic, Quicksilver, Velvet |
+| Pictures she sends in chat | yes | yes | yes |
 | Photo upload in chat | yes | yes | yes |
 | Free AI Studio points / day | 3 | 10 | 30 |
 | Public gallery browse | 30 newest | full | full |
@@ -38,14 +40,16 @@ unlock features. Charms power one-off actions inside paid features.
 
 ## Charms
 
-Charms are a one-time-purchase currency. You buy them in bundles and
-spend them inside features that already exist - for example to pay a
-Findom charge, or to keep generating in AI Studio once your free points
-for the day are gone.
+Charms are the in-app currency. You buy them in bundles, and you can
+also earn them by inviting friends. You spend them inside features that
+already exist - a Findom charge, AI Studio once your free points for
+the day are gone, the pictures she sends in chat, extra chat messages
+on Free, or buying your way past a blocked app.
 
-- You can see your balance in Account settings.
+- You can see your balance in Account settings and in the Shop.
 - Charms never expire.
-- Charms are not refundable once spent.
+- If something you paid for fails, the Charms go back to your wallet by
+  themselves. There is no refund for an action that worked.
 - Buying Charms does not change your tier.
 - Cancelling Premium does not consume your remaining Charms; they stay
   on the account.

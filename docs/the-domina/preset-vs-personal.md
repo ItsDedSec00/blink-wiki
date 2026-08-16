@@ -28,7 +28,9 @@ dashboard to see them. More may be added over time.
 ### The five free presets
 
 Five of them sit under **Presets** and are open to every account,
-including Free. These are the ones you choose from during onboarding.
+including Free. On a Free account these are the ones you choose from
+during onboarding. On a paid account onboarding takes you into the
+builder instead, and the presets are simply there when you want them.
 
 ### The ten Premium presets
 
@@ -57,17 +59,17 @@ separately, so switching costs you nothing. See
 
 ## Personal Dominas (paid)
 
-The configurable kind. You design her - name, age range, look, tone,
-speech style, intensity, traits, specialties, and a freetext aesthetic
-note that anchors her image style.
+The configurable kind. You design her - name, style, role, tone, speech
+style, intensity, strictness, traits, specialties, appearance, and a
+freetext **Visual Aesthetic** that anchors her image style.
 
 - **Premium**: 1 personal Domina.
 - **Premium Plus**: up to 3 personal Dominas, each independent. Switch
   the active one from the **Dominas** screen.
 
 A personal Domina also gets a **character shot** at creation - a
-portrait generated from your description. The same portrait anchors
-every session image she stars in. See
+portrait generated from your description, or from a reference photo you
+upload. The same portrait anchors every picture she sends you. See
 [Character Shots](./character-shots.md).
 
 Both kinds have a **mood** that moves. See

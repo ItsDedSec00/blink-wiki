@@ -86,9 +86,9 @@ private gallery. It can take a minute or two.
 
 Three sources, all of them work the same way:
 
-- **Upload** - pick an image from your device. A large photo is fine.
-  The upload is kept for one hour and then deleted, so upload it again
-  if you come back later.
+- **Upload** - pick an image file from your device, up to 10 MB. Any
+  image format works. The upload is kept for one hour and then deleted,
+  so upload it again if you come back later.
 - **A Domina portrait** - the round portraits in the reference row are
   your own Dominas. Useful for scenes with her in them.
 - **Remix** - open any image in your gallery or in the public gallery

@@ -39,8 +39,14 @@ a bone, or a nerve. Specifically:
 - Whipping and caning need IRL technique training. Stay off the lower
   back, the kidneys, and the spine.
 - Nipple clamps have a time limit. Read the manufacturer's note.
+  MISTRIX also watches for this one. When a reply tells you to put
+  nipple or genital clamps on without naming a short wear time, a
+  crimson **Safety Notice** appears under her message: keep clamps on
+  for no more than **15 minutes** at a time, and take them off at once
+  if the area goes numb or loses colour. The notice sits next to her
+  words. Nothing she wrote is blocked or rewritten.
 - CBT is the easiest in this category to injure yourself with. If you
-  are new, mark it Curious and let her build up.
+  are new, give it one heart and let her build up.
 
 ## Pair well with
 

@@ -71,12 +71,15 @@ it uses the same reset link:
 
 ## What if I can't access the email account?
 
-Then you cannot reset your password. The link is the only way in, and
-the email check cannot be skipped, by you or by us.
+Then you cannot reset it on your own. The link is the only way, and it
+only ever goes to the address on the account.
 
 Your options are:
 
 - Recover the email account itself.
+- Ask support to move your account to an address you can reach, then
+  run the reset as normal. Support can change the address; support
+  cannot set a password for you and cannot hand you a reset link.
 - Start fresh with a new MISTRIX account on a new email. The old
   account will eventually stop being used; you can schedule deletion if
   you want it gone, but you'd need access to sign in for that.

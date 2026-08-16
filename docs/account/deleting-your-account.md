@@ -40,12 +40,12 @@ account** row is gone until you cancel.
 - The date is cleared and the account returns to normal. No data lost.
 
 Cancelling works right up to the last day. Once the 30 days are up it
-stops working, even in the hours before everything actually goes.
+stops working, even in the gap before everything actually goes.
 
 ## When 30 days pass
 
-The account is erased. Not to the minute: it can happen a few hours
-after the date on the banner.
+The account is erased. Not to the minute: it can land up to a day after
+the date on the banner.
 
 What goes:
 
@@ -59,6 +59,11 @@ What goes:
 - Your Chaster connection. If a lock she holds the key to is still
   running, end it before you delete: we hand the key back where we
   can, but if that fails there is no way back to that lock afterwards.
+- Anything you posted to the public gallery. Published images and clips
+  drop out of the feed with the rest of your images, and any link you
+  handed out stops working.
+- Your Expose posts, including any still live and still carrying your
+  username, along with your votes and reactions.
 
 After this point the account is gone. There is no recovery. The
 username is freed and can theoretically be claimed by a new user later.
@@ -70,16 +75,19 @@ username is freed and can theoretically be claimed by a new user later.
   stripped from them, so what is left is not tied to you.
 - Aggregated, anonymised analytics counters that are no longer tied to
   your account persist.
-- Public-gallery images you unpublished before deletion are removed.
-  Images you left published go with everything else.
+- Anything another member already screenshotted or saved. Deletion
+  clears our side. It cannot retract a copy someone else made of a
+  gallery image or an Expose post.
 
 ## Before you delete
 
 If you might want anything later, **export first**:
 
 - Run [Data Export](./data-export.md). Save the JSON.
-- Download any sessions you want to keep (PDF if Premium Plus, share
-  page bookmark otherwise).
+- Download any sessions you want to keep. On Premium Plus, **Export as
+  PDF** sits on the Session Complete card in the chat. On Free and
+  Premium there is no download and no link you can keep, so copy the
+  summary text out yourself.
 - Save any AI Studio images you want to keep.
 
 ## Deletion vs cancellation vs sign-out
@@ -87,6 +95,7 @@ If you might want anything later, **export first**:
 | Action | Effect |
 |---|---|
 | Sign out | Signs you out on this device. Account untouched; you enter your PIN again next time. |
+| Sign out everywhere | Ends every session on every device, this one included. Nothing is deleted. |
 | Cancel subscription | Drops to Free at the end of the period. Account untouched. |
 | Schedule deletion | Account active for 30 days, then permanently wiped. |
 | Reset PIN | Deletes everything your PIN locks. The account and the rest of it stay. |

@@ -12,8 +12,8 @@ tags:
 
 A MISTRIX session is solo, but the scene is real. Heavier sessions can
 leave you in an altered state - sub drop is not a partner-only
-phenomenon. Aftercare is what you do after the outro card to come back
-to baseline.
+phenomenon. Aftercare is what happens after she closes the scene, to
+bring you back to baseline.
 
 ## Why aftercare matters
 
@@ -25,8 +25,26 @@ to baseline.
 - Restraint scenes can leave you physically tense even when nothing
   hurts.
 
-Solo aftercare is your responsibility. The Domina cannot run it for
-you; she can only suggest it inside the outro text.
+## She can start it with you
+
+You play solo, but you do not have to land on your own.
+
+- On the **End session** page, **End & Start Aftercare** sits under
+  the plain **End Session** button.
+- After a safe word, a **Start Aftercare** button appears under her
+  closing message.
+
+Either one opens an aftercare beat in the normal chat. She checks in
+on how you feel, gives one or two small grounding directives (water,
+breathing, a blanket, rest), and tells you to deal safely with any
+gear that was in play. No demands, no punishments, no tributes, no
+new session, no image offers.
+
+The version after a safe word is deliberately different. It is
+reassurance only. She does not comment on how you performed and does
+not pick the scene apart unless you bring it up yourself.
+
+Everything below is what you do for yourself once she has landed you.
 
 ## A baseline routine
 
@@ -46,10 +64,12 @@ you; she can only suggest it inside the outro text.
 - **Notice your mood.** If you feel a drop, name it. "I'm coming down."
 - **Reach out to a real person if you need to.** A friend, a partner,
   a confidante - anyone who knows you and is safe.
-- **Write the rating.** Putting the session into one number plus a
-  short note helps process it.
-- **Do not start a second session immediately** after a hard one. The
-  app does not stop you. Take the break anyway.
+- **Rate the session.** The End session page asks for one number from
+  1 to 5. It is private feedback and does not sway your Domina, she
+  forms her own verdict, but putting the scene into one number still
+  helps you process it.
+- **Do not start a second session immediately** after a hard one. On
+  Premium and Premium Plus nothing stops you. Take the break anyway.
 
 ## Aftercare for specific kinds of session
 

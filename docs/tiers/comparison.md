@@ -10,23 +10,34 @@ tags:
 
 # Plan Comparison
 
-MISTRIX has three plans. Free is genuine: it includes a real Domina, real
-sessions, and most features in a limited form.
+MISTRIX has three plans. Free is not a trial. It gives you a preset
+Domina, one session a day, and most features in a limited form.
 
 ## Side by side
 
 | | Free | Premium | Premium Plus |
 |---|---|---|---|
 | **Sessions / 24h** | 1 | unlimited | unlimited |
+| **Free message allowance** | yes, it refills over time | no allowance | no allowance |
+| **Chat messages / hour** | 90 | 120 | 120 |
+| **Chat messages / day** | 250 | no daily limit | no daily limit |
+| **Chat models** | Classic | Classic, Quicksilver, Velvet | Classic, Quicksilver, Velvet |
 | **Personal Dominas** | 0 | 1 | 3 |
-| **Preset Dominas** | 5 (free tier) | all | all |
-| **Session images** | preset portraits only | generated for each session | generated for each session |
+| **Preset Dominas** | 5 of 15 | all 15 | all 15 |
+| **Pictures she sends in chat** | yes | yes | yes |
 | **Photo upload in chat** | yes | yes | yes |
-| **Mood drift** | no (presets are neutral) | yes (personal Dominas) | yes (personal Dominas) |
+| **Mood drift** | yes | yes | yes |
 | **Character shot generation** | no | yes | yes |
 | **Free AI Studio points / day** | 3 | 10 | 30 |
 | **AI Studio Enhance & Save** | free, one per generation | free, one per generation | free, one per generation |
 | **Public gallery browse** | 30 newest | full | full |
+| **Active routines** | 4 | 10 | 20 |
+| **She marks a routine done** | no (you tick it yourself) | yes | yes |
+| **Routine history** | this week | last 4 weeks | last 4 weeks |
+| **Open tasks at once** | 1 | no limit | no limit |
+| **Inventory items** | 5 per category | 30 in total | 30 in total |
+| **Chastity: she can freeze the timer** | no | yes | yes |
+| **Notification frequency High** | no | yes | yes |
 | **Findom** | yes (opt-in) | yes (opt-in) | yes (opt-in) |
 | **Charm wallet** | yes | yes | yes |
 | **Session PDF export** | no | no | yes |
@@ -35,13 +46,19 @@ sessions, and most features in a limited form.
 
 ## Reading the table
 
-- "Unlimited" means there is no hard cap on the action itself. Spam
-  protections still apply, such as a short wait between two sends, but
-  you will never hit them in normal use.
+- "Unlimited" means there is no daily cap on the action itself. The
+  chat ceilings in the rows below still apply on every plan, as does a
+  short wait between two sends.
 - Your free AI Studio points reset at midnight UTC, not 24 hours after
   you used them.
-- On Free you do not generate scene images at all. You see the preset
-  Domina's own portraits.
+- Pictures she sends in chat work on every plan. She offers one now and
+  then, you confirm, and it costs 2 of your free AI Studio points, or 2
+  Charms once the points for the day are gone.
+- The two chat limits on Free are different things and stop you in
+  different ways. See [Chat limits on Free](./chat-limits.md).
+- Mood drift is not a paid feature. Each preset Domina keeps her own
+  mood toward you, and it moves with how your sessions and your
+  messages go.
 - Character shot regenerations are only gated by your personal-Domina
   count (one for Premium, three for Premium Plus). There is no
   separate daily allowance for them.
@@ -51,8 +68,10 @@ sessions, and most features in a limited form.
 You probably want **Premium** if:
 
 - You session more than once a day.
+- You run out of free messages and would rather not buy more.
 - You want **your own** Domina rather than a preset.
-- You want generated scene images, not just portraits.
+- You want the Specialist presets, not only the five free ones.
+- You want to pick **Quicksilver** or **Velvet** instead of Classic.
 
 You probably want **Premium Plus** if:
 

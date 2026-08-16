@@ -20,11 +20,14 @@ Set when you create or pick a Domina. Possible values:
 
 | Tone | Feels like |
 |---|---|
+| Warm | Encouraging, affectionate, still in control |
+| Nurturing | Caring and protective. Authority delivered as care |
+| Teasing | Suggestive and drawn out, never quite giving it to you |
+| Playful | Light, quick, ready to joke |
 | Strict | Direct, exacting, no softness in the language |
 | Cold | Sparse, distant, clinical |
-| Warm | Encouraging, affectionate, still in control |
-| Playful | Teasing, light, ironic |
-| Ceremonial | Formal, ritualistic, poetic |
+| Ceremonial | Formal and ritualistic |
+| Poetic | Image-led, rhythmic, elevated |
 
 Tone is the baseline. It does not shift session to session.
 
@@ -32,8 +35,10 @@ Tone is the baseline. It does not shift session to session.
 
 Independent from tone. Possible values:
 
+- **Gentle** - unhurried, soft-edged phrasing
 - **Formal** - full sentences, careful word choice
 - **Commanding** - imperative-first, blunt
+- **Conversational** - relaxed, close to how a person actually types
 - **Poetic** - imagery and rhythm
 - **Clipped** - short, terse, almost telegraphic
 
@@ -68,9 +73,11 @@ sessions.
 
 ## How to shift her, on the fly
 
-You cannot change her **tone**, **speech style**, or **intensity** mid
-chat - those are configured on her profile. You can change them between
-sessions in the Domina Configurator (Premium / Premium Plus).
+You cannot change her **tone**, **speech style**, or **intensity** from
+the chat itself. They live on her profile, and only a personal Domina
+has one you can edit: open **Dominas**, tap the cog on her card, change
+the field and save. The new setting lands on her very next message. A
+preset ships with hers fixed.
 
 You **can** ask her to:
 

@@ -38,11 +38,25 @@ You have three options:
 | Option | Result |
 |---|---|
 | **Pay** | Charms are deducted from your wallet, the gate clears, the Domina is pleased. |
-| **Refuse** | The Domina punishes (in-character). The gate clears. No Charms deducted. |
-| **Wait for expiry** | After 30 minutes the charge expires on its own. No Charms deducted. No punishment scene. |
+| **Refuse** | No Charms deducted and the gate clears, but it is not free. See below. |
+| **Wait for expiry** | After 30 minutes the charge expires on its own. No Charms deducted. Nothing else happens. |
 
 The gate is **only** active when there is an open charge. Outside that
 window, chat is normal.
+
+Refusing costs you three things, none of them money:
+
+- She answers in character, and that is the end of the conversation for
+  the moment.
+- Any session you had running ends there, marked abandoned. You get no
+  XP for it and no summary.
+- Her mood drops hard, and it does so on every tier. One refusal takes
+  two full points off it, enough to carry a pleased Domina to
+  displeased. It drifts back toward neutral at about a point a day.
+  See [Personality and mood](../the-domina/personality-and-mood.md).
+
+Letting the charge expire does none of this. If you want out of a
+demand without the fallout, wait it out.
 
 ## Where your Charms come from
 
@@ -66,9 +80,17 @@ balance** if you are using findom heavily. Your wallet is in
 
 ## Safety rails
 
-- Two limits you set yourself decide how far she can go: a **cap per
-  demand** and a **daily total**. Both live on the Findom settings
-  screen, and she cannot exceed either one, whatever the scene.
+Two limits you set yourself decide how far she can go. Both sit under
+**Limits** on the Findom screen, which only appears once the feature is
+on. She cannot exceed either one, whatever the scene.
+
+| Limit | What it caps | Starts at | You can set |
+|---|---|---|---|
+| **Max per demand** | any single demand | 50 Charms | 1 to 500 |
+| **Daily ceiling** | everything she demands in 24 hours | 200 Charms | 0 to 5000 |
+
+- Set both the moment you turn findom on. She can lock the panel, and
+  while it is locked the numbers are hers, not yours.
 - Open charges expire after 30 minutes, so a scene cannot block your
   account indefinitely.
 - She **can** demand more Charms than your wallet holds. That is part
@@ -89,8 +111,8 @@ balance** if you are using findom heavily. Your wallet is in
 If real-world financial harm is a risk for you, leave findom off. It
 is not a feature to test your willpower against; it is a feature for
 people for whom in-character spending is part of the fantasy and who
-can afford the bundle they bought. Set your cap per demand and your
-daily total before you turn it on, because the switch is hers
-afterwards.
+can afford the bundle they bought. Decide your two limits before you
+turn it on and set them straight after, because from that moment the
+switch is hers.
 
 See also: [Charms](../tiers/charms.md), [Account settings](../account/settings.md).

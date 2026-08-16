@@ -9,8 +9,14 @@ tags:
 
 # Onboarding Walkthrough
 
-Onboarding takes around five to ten minutes the first time. Every
-screen is editable later, so do not stress about getting it perfect.
+Onboarding takes around five to ten minutes the first time. Almost
+every screen is editable later, so do not stress about getting it
+perfect.
+
+This is the order a free account walks. Premium and Premium Plus start
+with the Domina builder and her character shot instead of the quiz,
+then join this list at the Fetish Map. See
+[Preset vs Personal Dominas](../the-domina/preset-vs-personal.md).
 
 ## 1. The quiz (level)
 
@@ -22,23 +28,25 @@ level to decide how hard your sessions are.
 - You can accept the suggested level, or nudge it up and down with the
   plus and minus buttons before you confirm.
 - After that it is not a setting you edit. It climbs on its own as you
-  finish sessions.
+  chat and finish sessions.
 
 ## 2. Fetish Map
 
-The full curated fetish list, grouped by category. For each entry you
-tap, you set an interest level:
+The full curated fetish list, grouped by category. Every row carries
+one control strip: a cross, an empty circle, then three hearts. The
+hearts say how often she brings a theme into your scenes, not how hard
+she pushes.
 
-- **0** (default) - not for me right now.
-- **1 - Curious** - I'd try it.
-- **2 - Like** - I enjoy this.
-- **3 - Love** - this is my thing.
+- **Circle** (default) - not for me.
+- **One heart** - occasionally.
+- **Two hearts** - often.
+- **Three hearts** - constantly.
 
-It is fine to leave most entries at 0. Pick what you actually want now;
-add more later.
+It is fine to leave most rows on the circle. Pick what you actually
+want now; add more later.
 
-See [Interest Levels](../fetishes/interest-levels.md) for how each level
-affects planning.
+See [Interest Levels](../fetishes/interest-levels.md) for how each
+rating affects planning.
 
 ## 3. Hard Limits
 
@@ -72,31 +80,58 @@ can use anything memorable.
 - Avoid words you might say in chat normally.
 - Short is good. One syllable is fine.
 
-You never have to recall it under pressure: the word is printed on the
-button that ends a session.
+You never have to recall it under pressure. During a session the red
+button sits in the chat header, and outside one the safe word is in the
+chat menu. Either way you get a confirmation screen first, and your
+word is printed on the button that ends the scene.
 
 ## 6. PIN setup
 
 The most important screen in onboarding.
 
-- Pick a PIN. It has to be digits only, 6 to 12 of them.
-- Confirm it.
-- Acknowledge the warning: **if you forget the PIN, your encrypted
-  data (fetishes, hard limits, inventory, routines and tasks, chat
-  messages, safe word) cannot be recovered**.
+- Pick a PIN. It has to be digits only, 6 to 12 of them. The field
+  ignores anything else you type.
+- Confirm it in the second field.
+- Tick the acknowledgement: **if you forget the PIN, your encrypted
+  data cannot be recovered**. That is your fetishes, hard limits,
+  inventory, routines and tasks, your goal and standing rules, your
+  chat messages and your safe word. The button stays off until both
+  fields are filled and the box is ticked, and it tells you if the two
+  PINs do not match.
 - Your PIN never leaves your device. Nobody at MISTRIX can see it, and
   nobody at MISTRIX can read your encrypted data without it.
 
 See [PIN and Privacy](../safety/pin-and-privacy.md).
 
-## 7. Profile
+## 7. About You
 
-A short screen with four optional fields: the name she calls you,
-gender, biological sex, and your age as a single number, 18 or older.
-These shape how she refers to you and what she proposes. You can skip
-it and fill it in later from your profile card on the **You** screen.
+A short screen with four fields: the name she calls you, gender,
+biological sex, and your age as a single number, 18 or older. All four
+are optional and there is a **Skip for now** link. They shape how she
+refers to you and what she proposes. You can fill them in later from
+your profile card on the **You** screen.
 
-## 8. Dashboard
+## 8. You are ready
 
-You are in. The dashboard shows your active Domina, today's session
-quota, recent activity, and a button to start chatting.
+A one-card recap: your level, your safe word, and whether your PIN is
+set. Tap **Enter MISTRIX** to carry on.
+
+## 9. Choose your Domina
+
+On a free account this is the last step. Five preset Dominas, one card
+each, with her portrait, her name and a one-line specialty. Tap a card
+to pick her, which also opens her story underneath, then tap the
+confirm button at the bottom, which carries her name.
+
+Premium and Premium Plus never see this screen. They built their own
+Domina at the start instead. See
+[Choose a Domina](./choose-a-domina.md).
+
+## 10. Dashboard
+
+You are in. At the top is your active Domina, her current mood, and a
+**Continue conversation** button. Below that are tiles for Routines,
+Expose, Features, AI Studio, Dominas and the Fetish map; counters for
+sessions completed, sessions this week and total XP; your level bar;
+your current plan; and, on Free, a row showing how many sessions you
+have left today.

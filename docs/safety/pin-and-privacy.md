@@ -20,10 +20,12 @@ the cost of losing it.
 
 Encrypted with your PIN:
 
-- All your fetish interests and levels.
+- All your fetish interests and levels, including the ones she picks up
+  from how you play.
 - Your hard limits list.
 - Your full inventory (toys, clothing, accessories) including notes.
-- Your routines and your open tasks.
+- The title and the instruction of every routine and every open task.
+- The long-term goal and the standing rules you set for her.
 - Your safe word.
 - Every chat message you have ever sent or received.
 
@@ -33,9 +35,12 @@ What is **not** encrypted:
 - Your profile details: the name she calls you, gender, biological sex
   and age. She reads these to write for you, so they sit outside the
   PIN.
-- Your level and XP.
-- Session details (title, difficulty, time, status).
-- Your generated images.
+- Your level and XP, and your Charm balance.
+- Session details (title, difficulty, time, status), and the session
+  text and summaries.
+- The schedule and the completion record of your routines and tasks.
+  She is shown those so she can hold you to them.
+- Your generated images and the photos you send her.
 - Your AI Studio prompts.
 - Your Domina herself: her name, her style, her personality settings,
   and everything she remembers about you.
@@ -48,8 +53,13 @@ not.
 
 ## How the encryption works
 
-- Your PIN is turned into an encryption key on your device, using
-  **PBKDF2**. That key encrypts the protected data with **AES-GCM**.
+- A new PIN is **6 to 12 digits, digits only**. That applies when you
+  set one for the first time and when you change it. A PIN you chose
+  before that rule still works: the unlock field carries a **My PIN
+  contains letters** button that switches your keyboard, and you are
+  asked now and then to move to a numeric one.
+- The locking happens on your device. The techniques are **PBKDF2** and
+  **AES-GCM**, both standard.
 - Your PIN itself is never sent anywhere and never stored anywhere.
 - Nothing protected ever leaves your device readable. We only ever hold
   the scrambled version, and only your PIN opens it.
@@ -64,9 +74,11 @@ who got hold of a copy of our data.
 - After you clear your browser data.
 - After you sign out, on that device.
 - Every so often on a device you already use, so a device you stop
-  using does not stay unlocked forever.
+  using does not stay unlocked forever. In a browser that is after
+  **7 days**. In the [Mistrix Companion](../features/mistrix-bridge.md)
+  app it is after **2 days**.
 
-You do not have to type it every time you open the app on a device you
+Inside those windows you do not have to type it again on a device you
 have already unlocked.
 
 ## What happens if you forget the PIN
@@ -74,11 +86,12 @@ have already unlocked.
 The protected data is unrecoverable.
 
 - Gone: your chat history with every Domina, your fetish interests,
-  your hard limits, your inventory, your safe word, your routines and
-  your open tasks.
-- Kept: your profile details, your Domina and everything she remembers
-  about you, your images, your sessions, your level and XP, your tier
-  and billing.
+  your hard limits, your inventory, your safe word, your long-term goal
+  and standing rules, your routines and your open tasks.
+- Kept: your profile details (name, gender, biological sex, age), your
+  Domina and everything she remembers about you, your images, your
+  sessions, your level and XP, your Charm balance, your tier and
+  billing.
 - Support cannot bring the rest back. The PIN is not stored anywhere.
 
 Your account is still usable and your Domina is still there. The
@@ -87,7 +100,17 @@ PIN.
 
 ## When you change your PIN
 
-- You will be asked for the **old PIN** to authorise the change.
+You change it under **You > Privacy & Security > PIN & encryption**.
+
+- You enter your **Current PIN**, then the new one twice. The second
+  field is there so a typo cannot lock everything behind a PIN nobody
+  knows.
+- Before anything is re-encrypted, MISTRIX checks that all your saved
+  data can still be opened with your current PIN. If something cannot,
+  the change stops and points you at **Repair locked data**, on the
+  same panel. That names the affected items and, once you confirm,
+  discards them so you can set them up again. Discarded data is gone
+  for good; there is no second copy.
 - Everything protected is re-encrypted with the key from your new PIN,
   on your device.
 - You will see a locked loading screen while that runs. Let it finish.

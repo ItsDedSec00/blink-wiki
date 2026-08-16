@@ -11,8 +11,8 @@ tags:
 # Writing Good Messages
 
 The Domina rewards specificity. The more clearly you state what you
-want and what you have to work with, the better the session plan you
-get. You do not need fancy prompt syntax. You need clear sentences.
+want and what you have to work with, the better the session you get.
+You do not need fancy prompt syntax. You need clear sentences.
 
 ## The four-line opener
 
@@ -32,7 +32,7 @@ she proposes.
 |---|---|
 | Shift her tone | "Be stricter for the rest of this." / "Soften this; I'm raw tonight." |
 | Steer content | "Focus on chastity, skip oral tonight." |
-| Adjust difficulty mid-session | "Step it up one notch." / "Hold here, don't escalate." |
+| Push harder or hold mid-session | "Step it up one notch." / "Hold here, don't escalate." |
 | Use a specific item | "Use the steel plug, not the silicone." |
 | Pause without ending | "Hold; I need five minutes." |
 | End cleanly without safe word | "End the session here, that's enough." |
@@ -51,11 +51,43 @@ she proposes.
 
 ## Mid-session corrections
 
-You can correct her in the middle of a scene. A short message between
-task cards is enough. Examples:
+You can correct her in the middle of a scene. A session is an ordinary
+conversation, and her directives arrive as messages like everything
+else, so a short reply at any point is enough. Examples:
 
 - "Slow this down, I lost the thread."
 - "Skip the next item, jump to the closing."
 - "More direct - drop the metaphors."
 
 Save the safe word for stopping the scene, not for fixing a single task.
+
+## Speaking instead of typing
+
+Where your browser supports it, and in
+[Mistrix Companion](../features/mistrix-bridge.md), a microphone button
+sits next to the message box.
+
+- **Tap it** to dictate one message. It stops on its own when you stop
+  speaking.
+- **Hold it** for about half a second to switch to wake-word mode. It
+  keeps listening, and only speech that starts with "Mistress" is picked
+  up, so the rest of the room is ignored.
+
+What you dictate lands in the message box rather than going straight
+out, so you can read it over before you send it. If the microphone is
+blocked, the button turns and tells you, and the fix is in your
+browser's site permissions.
+
+## Fixing a message after you sent it
+
+Small icons appear on a message bubble when you hover it, or straight
+away on a touch screen.
+
+| Control | Where | What it does |
+|---|---|---|
+| **Edit** | Your last 10 messages | Rewrites the message and asks her again from the corrected text. Everything after it is dropped. |
+| **Regenerate** | Her most recent reply | Asks for a different answer to the same message. Good when a reply lands flat rather than wrong. |
+| **Report** | Any of her replies | Flags it for the moderators. Use it for anything that should not have been written. |
+
+**Edit** and **Regenerate** are not available while a session is
+running. **Report** always is.

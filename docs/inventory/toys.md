@@ -28,19 +28,20 @@ penetration, vibration, impact, electric, and other sensation devices.
 
 For each item you add:
 
-- A **subcategory** (one of the above).
+- A **subcategory** (one of the above, required).
 - A **name** (whatever you want to call it; the Domina will read it
   literally).
-- An optional **note**. This is where you put size, material, colour,
-  and any caveat that affects use.
-- Optional **fetish tags**, picked from your own fetish list. These tell
+- An optional **description**. This is where you put size, material,
+  colour, and any caveat that affects use.
+- An optional **image link**, which puts a thumbnail on the item row.
+- Optional **fetish tags**, picked from the fetish catalogue. These tell
   her what the toy is for.
 
 Once the item is saved you can also give it a **Use** rating of one to
 three hearts, and switch it off entirely when you do not want it in
 play.
 
-Examples of useful notes:
+Examples of useful descriptions:
 
 - "Silicone, medium size, no use longer than 20 minutes."
 - "Battery-powered, remote control via app."
@@ -48,35 +49,32 @@ Examples of useful notes:
 
 ## How the Domina selects toys
 
-When she plans a session and needs a toy:
-
-- She reaches for items that fit what the session is about. The fetish
+- She has the names of your switched on toys in front of her on every
+  turn, so she never has to guess whether you own something.
+- She reaches for items that fit what the scene is about. The fetish
   tags you put on an item are the strongest signal, so tag the toys you
   want used.
-- She reads the name and the note, and picks something that suits the
-  task she has in mind.
-- She favours toys you gave a high **Use** rating, and she reaches for
-  different ones from one session to the next so the same toy is not
-  used every time.
+- She looks up the description when she needs to know what a toy is for.
+- She favours toys you gave a high **Use** rating, and she varies which
+  ones she reaches for so the same toy is not used every time.
 
-## Required vs optional
+There is no proposal sheet listing what to bring out. If she names a toy
+you cannot reach right now, say so in chat and she adapts in the same
+reply.
 
-- A toy that is **required** for a session is listed in the proposal
-  sheet under "Bring out". You confirm or decline based on whether you
-  can use it right now.
-- A toy that is **optional** is listed under "Have ready if you want".
-  The Domina builds the session around using or not using it depending
-  on your reply.
+## Pausing, weighting, and removing an item
 
-If a required toy is unavailable today, decline the proposal. She will
-replan with a different set.
+Each item row carries three controls.
 
-## Removing or pausing an item
+- **The include switch**, the gold toggle. On means she can see and use
+  the toy. Off dims the row, marks it **Excluded for now**, and takes it
+  away from her completely. Use this while something is being repaired
+  or is out of reach.
+- **The Use hearts**, one to three, two by default. Three hearts tells
+  her to reach for the toy often, one heart tells her to use it
+  sparingly.
+- **×** deletes the toy from your inventory outright.
 
-To pause an item (e.g. while it's being repaired):
-
-- Switch the item off with the toggle on its card.
-- The Domina skips it while it is off.
-- Switch it back on when it's back in use.
-
-Removing the item entirely deletes it from your inventory.
+There is no edit form for an item. To change a name or a description,
+delete the entry and add it again. Fetish tags are the exception: the
+tag button on each row reopens the tag picker.

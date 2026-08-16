@@ -42,8 +42,8 @@ three below them are shown here for completeness and are not on it.
 | **Biological sex** | yes | Penis, Vagina, or Prefer not to say. Shapes which physical tasks she gives you. |
 | **Age** | yes | One number, 18 or older. Used to shape her framing. It is not an age check. |
 | Username | no | Chosen when you signed up. Ask support if you need it changed. |
-| Email | no | The address you sign in with. Create a new account if you need a different one. |
-| Level | no | It starts from the questions you answered when you joined and rises as you finish sessions. |
+| Email | no | The address you sign in with. You cannot change it here; ask support if you need it changed. |
+| Level | no | Starts from the questions you answered when you joined; rises with every message and every finished session. She pitches how hard she pushes in chat to it. |
 
 ## My Domina
 
@@ -62,8 +62,9 @@ Three rows, each opening a screen of its own:
 
 - **Fetish map** - your interest level for every kink.
 - **Inventory** - toys, clothing and accessories she may use.
-- **Safe word** - the word that stops a scene. The row shows the word
-  you have now.
+- **Safe word** - the word that stops a scene. The row itself is blank
+  once you have a PIN, because the word is locked with it. Open the row
+  to read or change it.
 
 See [Interest levels](../fetishes/interest-levels.md) and
 [Inventory](../inventory/index.md).
@@ -251,8 +252,10 @@ See [Findom](../features/findom.md).
 ## What you can't change from settings
 
 - Username - ask support.
-- Email - create a new account.
-- Level - it follows your sessions.
-- Past sessions - you can delete one, you cannot edit its text.
+- Email - ask support.
+- Level - it follows your XP, and XP follows your chatting and your
+  sessions.
+- Past sessions - there is no screen that edits or deletes a single
+  one. They are removed automatically 365 days after they started.
 - The Domina's mood - it drifts, you don't set it.
 - Universal hard limits - they apply whatever your own list says.

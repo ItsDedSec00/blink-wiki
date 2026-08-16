@@ -16,9 +16,11 @@ From there you can take a photo or pick one you already have.
 
 ## How the Domina uses your photo
 
-A large picture is no problem and the upload stays quick. She reads
-what is in the picture and answers with a directive shaped by what she
-saw.
+A large picture is no problem. Your device shrinks it to about 1024
+pixels on the long side before it is sent, so the upload stays quick.
+Very fine detail does not survive that, so frame what you want her to
+notice rather than relying on a distant close-up. She reads what is in
+the picture and answers with a directive shaped by what she saw.
 
 The Domina is honest about the medium: she does not pretend the photo
 is live video. She is reacting to a still image.

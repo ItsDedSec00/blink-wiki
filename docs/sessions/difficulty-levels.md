@@ -1,6 +1,6 @@
 ---
 title: Difficulty Levels
-description: What a session's difficulty rating means, what range it can land in, and how to steer it.
+description: What a session's difficulty number means, why it never changes, and what actually varies instead.
 tags:
   - sessions
   - difficulty
@@ -9,59 +9,77 @@ tags:
 
 # Difficulty Levels
 
-Every session carries a difficulty rating. You see the number in the
-proposal sheet before you confirm.
+Every session carries a difficulty number. You see it on the proposal
+sheet before you confirm.
 
-## The range
+## The number is always 3
 
-Sessions land between **2** and **4**, with **3** as the usual
-target. You will not see difficulty 1 or 5 in practice. She keeps to
-the middle of the scale so a session feels neither pointless nor
-punishing by default.
+Every session is created at **difficulty 3 of 5**. It is not picked per
+session and it is not a dial you or she can turn, so the proposal sheet
+always reads "Difficulty: 3/5". It exists to keep the session XP award
+steady. See [After the Session](./after-the-session.md).
 
-| Difficulty | Feel | Typical content |
-|---|---|---|
-| 2 - Mild | A real scene, but easy to step out of. | Three or four tasks; soft restraint OK; minor escalation. |
-| 3 - Medium | The default "good night" session. | Four to six tasks; one or two escalation points; restraint and basic implements; clear closing. |
-| 4 - Hard | A demanding session with stamina expectations. | Multiple escalation phases; heavier implements; longer holds; more strict voice. |
+If you were expecting the number to move with how hard a session felt,
+it does not. Nothing in the app sets it to 1, 2, 4 or 5.
 
-Difficulty is not the same as fetish category. A difficulty 2 session
-can still feature a heavy fetish if you marked it Love - the fetish
-will just appear as one short task, framed gently.
+## What actually varies
+
+A session that felt harder or softer than the last one changed on these
+instead:
+
+| Lever | Effect |
+|---|---|
+| Her **intensity** and **tone** | How hard her voice lands. |
+| Her **current mood** | Warm, level, or cold delivery. |
+| Your **level** | How severe the demands she picks are. |
+| The **focus fetishes** of that session | What the scene is actually about. |
+| Your **inventory** | Which items she can call for. |
+| How long you stay | She paces by how many directives she has given, not by a plan. |
 
 ## What she uses
 
-- Your **active interests** at Curious / Like / Love levels. These
-  shape what content appears.
+- Your **active interests**, anything you rated at one heart or more.
+  These shape what content appears. See
+  [Interest levels](../fetishes/interest-levels.md).
 - Your **hard limits**. These are excluded entirely.
-- Your **inventory**. She only proposes items you have switched on.
+- Your **inventory**. She only asks for items you have switched on.
 - The Domina's **personality** (tone, speech style, traits,
   specialties) and her **current mood**.
+- Your **level**.
 
-Your **level** (Novice I -> Master) is a cosmetic XP badge. It does
-not change how she builds sessions. If you're a level 1 with a
-strict, intensity-5 Domina, she's still strict; if you're a level 10
-with a playful Domina, sessions still feel playful.
+Your **level** (Novice I to Master) is not only a badge. She is told
+your level on every turn and asked to match the severity of what she
+demands to it. A Novice gets fundamentals. A Master gets real severity,
+and softening a demand "to be safe" when you asked for more counts as
+her failing you.
+
+It does not touch the difficulty number. That stays at 3 whatever your
+level is.
+
+Your hard limits stay the only content boundary, and the safe word is
+always the brake.
 
 ## Asking for a specific session
 
-Telling her what you want before she proposes shapes the next plan:
+Telling her what you want before she proposes shapes what she offers:
 
 - "Keep it short tonight, maybe 15 minutes."
 - "Focus on chastity, skip impact."
 - "I want something stricter this evening."
 
-She reads the message and rebuilds the proposal around it. There is no
-difficulty dial you can set, and naming a number does not lock her to
-it, but specific content steers reliably change what she proposes.
+She reads the message and rebuilds the proposal around it. Naming a
+difficulty number does nothing, because the number is fixed, but
+specific content steers reliably change what she proposes.
 
 ## Why a session might surprise you
 
 - You changed your interest levels recently. She adjusted.
-- She is displeased with you. Her tone hits harder than the difficulty
-  number suggests.
-- You skipped warm-up by asking for "no preamble". A 3 with no warm-up
-  feels like a 4.
+- She is displeased with you. Her tone hits harder.
+- Your level went up, so she is calibrating higher than last time.
+- You skipped warm-up by asking for "no preamble".
 
-If a session lands at the wrong difficulty, tell her so in chat. She
-pitches the next proposal differently.
+If a session lands wrong, tell her so in the chat. That is the channel
+she reads, and the tone of your replies nudges her mood, though it
+takes several turns pulling the same way to move her a step. The 1 to 5
+rating on the End session page is private feedback for us and never
+reaches her.

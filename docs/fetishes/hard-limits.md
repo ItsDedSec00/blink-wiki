@@ -28,29 +28,33 @@ setting you re-check the most.
 
 ## Hard limit vs interest
 
-Both lists draw from the same curated catalogue. On the Fetish map a
-fetish is one or the other, never both. Whatever else points at it, the
-hard limit wins.
+A hard limit is not a second list. It is one position on the same row
+you use to rate the fetish, so a fetish can never be a hard limit and an
+interest at the same time. Tap the cross and the hearts clear. Tap a
+heart and the cross clears.
 
-| In interests | In hard limits | What happens |
-|---|---|---|
-| Yes (any level) | No | She uses it according to the interest level |
-| No | No | Ignored |
-| Either | Yes | **Never used**, regardless of interest level |
+| Position on the row | What happens |
+|---|---|
+| One to three hearts | She weaves it in, more often the more hearts |
+| Circle ("not for me") | Ignored |
+| Cross | **Never used**. She will not mention, reference or imply it |
 
-If you want to fully retire a fetish, you can either drop its interest
-to 0 or make it a hard limit. Hard limits are stronger - they survive
-later edits to the rest of your interests, and she says no out loud if
-you ask her for one anyway.
+If you want to fully retire a fetish, you can either set the circle or
+set the cross. The cross is stronger. It reaches her as a plain never,
+she says no out loud if you ask her for it anyway, and it is the one
+rating she can never talk herself out of. See
+[Interest levels](./interest-levels.md) for what she picks up from your
+chats on her own: a crossed fetish is left out of that entirely.
 
 ## Adding and removing
 
-- **Adding** a hard limit takes effect immediately. Active sessions
-  continue with their existing plan, but the next session will respect
-  the new limit.
-- **Removing** a hard limit also takes effect immediately. The next
-  session is free to use it (still gated by the interest level you set
-  separately).
+Both take effect as soon as you tap **Save & Continue**.
+
+- **Adding** a hard limit lands at once. Active sessions continue with
+  their existing plan, but the next session will respect the new limit.
+- **Removing** a hard limit lands at once too. Clearing the cross drops
+  the fetish back to the circle, so she still leaves it alone until you
+  give it hearts.
 
 ## "Pretend it isn't on my list tonight"
 
@@ -67,9 +71,8 @@ of mood-killing surprises later.
 
 ## A common starting list
 
-Many users keep at least a few items in hard limits even if they are
-not on their interest list, as a belt-and-braces safeguard. Common
-defaults to consider:
+Many users cross a few fetishes they were never going to rate anyway,
+as a belt-and-braces safeguard. Common ones to consider:
 
 - Anything involving non-consenting third parties (always blocked by the
   app, but explicit on your list anyway).

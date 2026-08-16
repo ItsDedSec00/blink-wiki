@@ -45,14 +45,23 @@ What you keep:
 What changes:
 
 - The daily session cap is gone. Free is one session per 24 hours.
+- The free message allowance is gone. Nothing to wait for and nothing
+  to top up. The hourly spam guard stays, at 120 messages an hour, and
+  the daily one drops away. See [Chat limits on Free](./chat-limits.md).
 - You can create a personal Domina: one on Premium, up to three on
   Premium Plus.
 - More [chat models](../communication/model-selector.md) become
   selectable. **Classic** is on every plan; **Quicksilver** and
   **Velvet** need a paid plan.
-- Your daily AI Studio allowance goes from 3 to 10, or to 30 on
+- Your daily free AI Studio points go from 3 to 10, or to 30 on
   Premium Plus.
 - Character shots for your personal Domina become available.
+- You can hold 10 active routines instead of 4 (20 on Premium Plus),
+  she can mark a routine done for you, and routine history opens up
+  from this week to the last four.
+- Open tasks stop being capped at one at a time.
+- She can freeze a chastity timer, and **High** notification frequency
+  becomes selectable.
 
 ## Upgrading from Premium to Premium Plus
 
@@ -64,8 +73,8 @@ through. You do not have to do anything else.
 What you keep: everything, including your existing personal Domina.
 
 What changes: you can create up to two more personal Dominas, your
-daily AI Studio allowance goes to 30, and you can export a finished
-session as a PDF.
+daily free AI Studio points go to 30, your active-routine cap goes from
+10 to 20, and you can export a finished session as a PDF.
 
 ## Downgrading from Premium Plus to Premium
 
@@ -80,7 +89,9 @@ What changes:
 
 - Premium allows one personal Domina, so creating a new one stays
   blocked while you still hold the ones you made on Premium Plus.
-- Your daily AI Studio allowance goes back to 10.
+- Your daily free AI Studio points go back to 10.
+- Your active-routine cap goes back to 10. Routines over that number
+  are not removed; you just cannot add another until you are under it.
 - PDF export of sessions is no longer available.
 
 ## Downgrading to Free
@@ -97,16 +108,25 @@ Studio.
 What changes:
 
 - You go back to one session per 24 hours.
+- The free message allowance comes back, and with it the lower ceiling
+  of 90 messages an hour and 250 a day. See
+  [Chat limits on Free](./chat-limits.md).
 - Your chat model goes back to **Classic**. Your old pick is
   remembered and comes back if you subscribe again.
-- Your daily AI Studio allowance drops to 3.
+- Your daily free AI Studio points drop to 3. You still generate, and
+  she still sends pictures in chat; you just get less of it for free.
 - The public gallery shows you the 30 newest posts instead of all of
   them.
 - Your personal Dominas are still on your account, but Free chats with
   a preset Domina instead. The app asks you to pick one if you have
   not already.
-- Sessions no longer generate their own images. You see the preset
-  Domina's own portraits.
+- Active routines are capped at 4, she stops marking them done for
+  you, and routine history shows the current week only.
+- You hold one open task at a time.
+- She can no longer freeze a chastity timer. Unfreezing is never
+  gated, so a timer she froze while you paid can still be released.
+- **High** notification frequency drops back to **Normal**. Your
+  choice is remembered for the next time you subscribe.
 
 ## Cancelling
 

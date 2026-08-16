@@ -54,8 +54,8 @@ difference between a flat session and a great one.
 > on the stern side. Skip the body worship tonight, focus on edging.
 
 The second message gives her duration, energy, tone, and a specific
-content steer. The session plan she produces will be visibly tighter
-because of it.
+content steer. The session she runs will be visibly tighter because of
+it.
 
 ## When she does not understand
 

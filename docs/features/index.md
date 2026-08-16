@@ -16,7 +16,7 @@ respects the same safety rules.
 ## Pages in this section
 
 - [AI Studio](./ai-studio.md) - standalone image and video generation with three image slots and a private gallery.
-- [Public gallery](./public-gallery.md) - sharing AI Studio images anonymously to the community feed.
+- [Public gallery](./public-gallery.md) - sharing AI Studio images and clips anonymously to the community feed.
 - [Routines and tasks](./routines-and-tasks.md) - the recurring routines and one-time tasks she sets for you.
 - [Chastity](./chastity.md) - handing a real Chaster lock to your Domina, and how to get out again.
 - [App blocking](./app-blocking.md) - putting apps on your phone out of reach, and the ways back in.
@@ -56,6 +56,8 @@ respects the same safety rules.
 - **Chastity and app blocking** reach into the physical world. Both have
   an exit that does not depend on your Domina agreeing. Read those two
   pages before you turn either on.
-- **The only thing you can make public** is an image from AI Studio, by
-  posting it to the gallery. Nothing else about your account can be
-  shared out of the app. See [Public gallery](./public-gallery.md).
+- **The only thing that leaves MISTRIX** is an image you post to the
+  public gallery from AI Studio. That one gets a link anyone can open,
+  with no account. Everything else, the Expose board included, stays
+  inside the app behind a sign-in. See
+  [Public gallery](./public-gallery.md).

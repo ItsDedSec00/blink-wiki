@@ -10,9 +10,9 @@ tags:
 
 # Clothing & Fetish Wear
 
-The largest of the medium-sized categories. Many sessions reference
-something here in passing even when it is not the main theme - the
-Domina uses clothing to set tone and texture.
+One of the mid-sized categories, at twelve entries. Many sessions
+reference something here in passing even when it is not the main theme -
+the Domina uses clothing to set tone and texture.
 
 ## Entries
 

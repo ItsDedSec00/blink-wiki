@@ -22,7 +22,9 @@ do. Then:
 
 1. Tap **Sign up with Google** and choose your account.
 2. Pick a username. This step is the same for everyone.
-3. Onboarding starts.
+3. You land on the plan screen. Pick a plan, or continue for free.
+   New accounts start on the Free tier.
+4. Onboarding starts.
 
 There is no verification email on this route, because your Google
 account is already confirmed.
@@ -40,8 +42,11 @@ access to MISTRIX with it.
   password-reset links here.
 - A username. Visible in the app, globally unique, **3 to 32 characters**,
   letters / digits / dashes / underscores.
-- A password. At least **8 characters**. The app tells you if it is
-  too short.
+- A password. At least **8 characters**, typed twice. The app tells you
+  if it is too short or if the two do not match.
+- The same two tick boxes as the Google route: you confirm you are 18 or
+  older, and you accept the Terms of Service and Privacy Policy.
+  **Create Account** stays greyed out until both are ticked.
 
 ### After sign-up
 
@@ -52,8 +57,16 @@ access to MISTRIX with it.
 4. Onboarding starts.
 
 You have to verify your email before you can finish setting up the
-account. If the mail does not arrive, use **Resend verification
-email** and check your spam folder.
+account. The app waits on a **Verify your email** screen while you do
+it. If the mail does not arrive, use **Resend verification email** and
+check your spam folder.
+
+## If sign-up is closed
+
+New sign-ups are sometimes turned off. When they are, tapping **Create
+Account** opens a **Registration closed** notice instead of the form,
+and offers you the sign-in screen. An invite link still works while
+sign-up is closed.
 
 ## Username rules
 
@@ -61,8 +74,10 @@ email** and check your spam folder.
   coexist).
 - Cannot be changed by you. If you absolutely need a username change,
   contact support.
-- The one place it becomes public is a post on the Expose board, which
-  carries your username. Gallery images and suggestions do not.
+- The one place other people see it is the Expose board inside the app:
+  anything you post there carries your username. It is never shown
+  outside MISTRIX. The public gallery is anonymous, and so are
+  suggestions.
 
 ## Email rules
 
@@ -84,8 +99,10 @@ email** and check your spam folder.
 ## What happens if you forget your PIN
 
 The encrypted parts of your account (fetishes, hard limits, inventory,
-routines and tasks, chat messages, safe word) are not recoverable. The
-rest of your account (your Domina and what she remembers, sessions,
-tier, XP, level) is still accessible.
+routines and tasks, your goal and standing rules, chat messages, safe
+word) are not recoverable. The rest of your account is still
+accessible: your profile details (name, gender, biological sex, age),
+your Domina and what she remembers, your images, sessions, tier, XP and
+level.
 
 See [PIN and Privacy](../safety/pin-and-privacy.md) for the full picture.

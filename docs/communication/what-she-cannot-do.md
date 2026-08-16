@@ -35,6 +35,19 @@ This is a deliberate design choice. The medium keeps the scene yours and
 keeps the Domina honest. Asking her to break it produces a flat reply or
 a polite redirect.
 
+Two things do reach past the chat screen, and neither is her pretending
+to be present.
+
+- **She can write to you while you are away.** Once you turn
+  notifications on she reaches you between visits, and she keeps a
+  reminder she promised you in chat. Tap one and it opens the chat with
+  her message already in it. How often she writes, and the quiet hours
+  she keeps, are on [Notifications](../features/notifications.md).
+- **Her replies can carry consequences outside the transcript.** Time
+  added to a chastity lock, Charms taken as tribute, a post to the
+  Expose board, a ruling on a routine or a task. Every one of those is a
+  feature you switched on yourself, and each has its own page.
+
 ## 2. The safety boundary
 
 Hard limits are inviolable.
@@ -51,6 +64,22 @@ Beyond your personal list, the app blocks content categories that are
 universally forbidden (minors, non-consenting third parties, content
 that targets real identifiable people). No message and no workaround
 unlocks these.
+
+Two more things sit on the chat screen itself. A line under the message
+box reminds you on every turn that her replies are AI-generated and may
+contain errors, and that you should check a directive before acting on
+it. And her replies are screened afterwards for instructions that are
+physically risky to follow: breathing, circulation, restraint left on
+too long, substances, burns. On a hit you get a crimson **⚠ Safety
+Notice** under her message with the specific warning, and clamp play
+gets its own notice with its 15-minute limit. Her words are never
+rewritten or held back. The warning is the app speaking next to her, so
+you can tell the two apart.
+
+Treat that screen as a second pair of eyes, not a guarantee. It can miss
+things, and no notice appearing is not a statement that a directive is
+safe. Your own judgment and your safe word are the real brakes. See
+[Safe Word](../safety/safe-word.md).
 
 ## 3. The data boundary
 

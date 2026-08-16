@@ -27,14 +27,16 @@ she cannot.
 MISTRIX ships with **fifteen** preset Dominas. Each one has her own
 voice, intensity, and specialties, and you cannot edit any of them.
 
-**Five** of them are open to every account, Free included. You choose
-one of those during onboarding and you can switch between them any
-time. The other **ten** are Specialists and need Premium; on Free they
-show as locked cards.
+**Five** of them are open to every account, Free included. On Free you
+pick one of those during onboarding. You can switch later, but on Free
+the switch clears your chat, your sessions and her memories with the
+Domina you are leaving. The other **ten** are Specialists and need
+Premium; on Free they show as locked cards.
 
 Open **Dominas** in the app to see the current line-up - each card
-lists her tone, speech style, intensity, and what she specialises in.
-New ones may be added occasionally, old ones do not go away. See
+shows her portrait and what she specialises in, and the info button
+opens her full profile. New ones may be added occasionally, old ones do
+not go away. See
 [Preset vs personal Dominas](./preset-vs-personal.md).
 
 ## Personal Dominas (paid tiers)
@@ -45,8 +47,8 @@ New ones may be added occasionally, old ones do not go away. See
   Switch the active one from the **Dominas** screen.
 
 A personal Domina also gets a **character shot**: a portrait generated
-from your description, used as the visual anchor for her appearance in
-every session image.
+from your description, or from a reference photo you upload. It is the
+visual anchor for every picture she sends you.
 
 ## Mood
 
@@ -97,7 +99,7 @@ tap **Delete & Start Over**. **Cancel** backs out and changes nothing.
 - Every session you did with her, including the summaries in your
   history.
 - Every image from her chat and her sessions, including photos you
-  uploaded there.
+  uploaded there. Copies already saved to your AI Studio gallery stay.
 - The routines and tasks she set.
 - The goal and standing rules you set for her. See
   [Goal and standing rules](../communication/standing-rules.md).
@@ -111,7 +113,8 @@ tap **Delete & Start Over**. **Cancel** backs out and changes nothing.
 - Your [inventory](../inventory/index.md), your PIN and your safe word.
 - Your other Dominas, with their chats, sessions and images untouched.
 - Routines and tasks another Domina set.
-- Your [AI Studio](../features/ai-studio.md) images.
+- Your [AI Studio](../features/ai-studio.md) gallery, including the
+  copies of pictures she sent you in chat.
 
 ### What happens next
 
@@ -123,4 +126,5 @@ tap **Delete & Start Over**. **Cancel** backs out and changes nothing.
 There is no undo and no grace period. If you want to keep anything of
 hers, do it first: download the images you want and save any session
 you care about. A [data export](../account/data-export.md) run before
-you start over is the only copy you will have afterwards.
+you start over is the only copy you will have afterwards, and the parts
+your PIN locks, her chat included, are locked in it too.

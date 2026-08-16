@@ -15,14 +15,22 @@ why and how to use the system well.
 
 ## How they work
 
-Whenever the Domina plans or writes anything - a session, a chat
-message, a summary, the description behind an image - your current
-hard-limits list binds her as an **absolute restriction**: never
-mention, reference, or imply any of these.
+Whenever the Domina plans or writes something for you - a chat reply,
+a session and every directive in it, a routine, a one-off task, an
+answer to a photo you send - your current hard-limits list binds her
+as an **absolute restriction**: never mention, reference, or imply any
+of these. The same list also stops her from filing anything she
+remembers about one of those topics.
 
-She gets that rule every time, without exception, and it outranks
+She gets that rule before she gets your message, and it outranks
 anything said in a scene, hers or yours. No clever message talks her
 past it.
+
+Three later steps are written from words she has already produced
+under that restriction, rather than from the list itself: the portrait
+she sends you in chat, the summary at the end of a session, and an
+Expose post. Nothing new comes in at that point, which is why the
+practical effect holds.
 
 ## What this means in practice
 

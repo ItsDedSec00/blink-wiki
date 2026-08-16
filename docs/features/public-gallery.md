@@ -1,6 +1,6 @@
 ---
 title: Public Gallery
-description: How to share an AI Studio image to the community feed - anonymously, with a clear consent step.
+description: How to share an AI Studio image or clip to the community feed - anonymously, with a clear consent step.
 tags:
   - features
   - ai-studio
@@ -11,9 +11,10 @@ tags:
 
 # Public Gallery
 
-The public gallery is a community feed of AI Studio images that users
-have chosen to share. It lives next to the **Studio Gallery** tab. All
-sharing is anonymous: no username, no link back to your account.
+The public gallery is a community feed of AI Studio images and clips
+that users have chosen to share. It lives next to the **Studio
+Gallery** tab. All sharing is anonymous: no username, no link back to
+your account.
 
 ## Browsing
 
@@ -22,17 +23,18 @@ sharing is anonymous: no username, no link back to your account.
   offers you an upgrade.
 - **Premium** and **Premium Plus** see the full feed.
 
-The gallery is curated by moderators. Reports remove images from the
-public feed pending review.
+A shared image also gets a page of its own outside the app. Anyone
+handed that link can open it, with no MISTRIX account and no sign-in.
+The **Share link** button on an image copies exactly that address.
 
 ## Sharing one of your images
 
 From your **Studio Gallery**:
 
 1. Open the image.
-2. Tap **Share to Public**.
+2. Tap **Share publicly**.
 3. Read the confirmation: this is anonymous but permanent (until you
-   unpublish or delete).
+   unshare or delete).
 4. Confirm.
 
 The image now appears in the public feed. Your prompt goes public with
@@ -41,17 +43,24 @@ includes people who have no MISTRIX account and reached it through a
 link. The confirmation step says so as well. Treat the prompt as part
 of what you are publishing.
 
-## Unpublishing
+Video clips work the same way. Open a clip in your gallery and tap
+**Share publicly**. Clips appear in the feed inside the app, but they
+do not get a link of their own.
 
-From your Studio Gallery, open a published image and tap **Unpublish**.
-It immediately drops from the public feed. The image stays in your
-private gallery.
+## Unsharing
+
+Open a shared image and tap **Unshare**. It drops from the public feed
+at once and its link stops working. The image stays in your private
+gallery. You can do this from your Studio Gallery or from the public
+feed itself, on anything you posted.
 
 ## Reporting
 
-Every image in the public gallery has a **Report** button. Reports
-include a reason and go to the moderators. They can remove images and
-warn or ban the accounts that posted them.
+There is no **Report** button in the public gallery. Reporting exists
+only in chat, for a message or an image your Domina sent you.
+
+If something in the public gallery breaks the rules, contact support
+from **Account**. Moderators can remove any shared image or clip.
 
 ## What images cannot be published
 
@@ -68,12 +77,16 @@ violates these is removed and the account is reviewed.
   features (face, location markers, recognisable rooms) if anonymity
   matters to you.
 - Once an image has been visible in the public gallery, other users
-  may have screenshotted it. Unpublishing removes the image from
-  MISTRIX; it does not retract screenshots.
+  may have screenshotted it. Unsharing removes the image from the
+  feed; it does not retract screenshots.
 
 ## Moderator actions
 
-If a moderator removes an image, the owner is notified and the image
-moves from "Published" to "Removed" in their studio gallery (the
-private copy stays). Repeated removals can trigger an account warning
-or ban; see [Account](../account/index.md).
+If a moderator removes an image or a clip, it is deleted. It leaves the
+public feed and your private gallery at the same time, and the file
+goes with it. You are not told, and there is no copy to get back.
+Repeated removals can trigger an account warning or ban; see
+[Account](../account/index.md).
+
+Keep your own copy of anything that matters to you. Open the image in
+your gallery and tap **Download** before you share it.

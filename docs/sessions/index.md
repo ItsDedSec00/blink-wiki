@@ -1,6 +1,6 @@
 ---
 title: Sessions
-description: How a MISTRIX session is structured, what happens in chat, photo uploads, the safe word, and what comes after.
+description: How a MISTRIX session runs in chat, photo uploads, the safe word, and what comes after.
 tags:
   - sessions
   - overview
@@ -9,17 +9,18 @@ tags:
 
 # Sessions
 
-A session is a single, self-contained scene the Domina runs for you. It
-has an intro, a series of tasks, and a closing. You can finish it,
-abandon it, or end it instantly with the safe word.
+A session is a marked stretch of your ordinary chat, not a separate
+screen. She proposes it, you confirm, and the conversation carries on
+with her running a scene through it until one of you closes it. You can
+finish it, let it time out, or end it instantly with the safe word.
 
 ## Pages in this section
 
-- [Lifecycle of a session](./lifecycle.md) - from her proposal to the summary screen.
-- [Difficulty levels](./difficulty-levels.md) - what 2, 3, 4 actually mean.
+- [Lifecycle of a session](./lifecycle.md) - from her proposal to the summary card.
+- [Difficulty levels](./difficulty-levels.md) - why the number is always 3, and what varies instead.
 - [Photo uploads](./photo-uploads.md) - when to send her a photo, what she does with it.
 - [Using the safe word](./using-the-safe-word.md) - how, when, and what happens after.
-- [After the session](./after-the-session.md) - rating, her verdict, XP, summary, sharing.
+- [After the session](./after-the-session.md) - rating, her verdict, XP, summary, aftercare, export.
 
 ## A session at a glance
 
@@ -30,19 +31,19 @@ Chat opens
 Domina proposes a session  ----> you confirm or decline
    |
    v
-Intro card (scene + tone)
+"Session Started" marker in the conversation
    |
    v
-Task card 1, 2, 3, ...     <---- safe word always visible
+Ordinary chat, directive by directive   <---- safe word always reachable
+   |                                          timer chip when she sets one
+   v
+She offers to close, or you tap End session
    |
    v
-Outro card
+End session page (optional private 1-5 rating)
    |
    v
-End session page (private 1-5 rating)
-   |
-   v
-Her verdict + XP + summary + image saved to your history
+"Session Complete" card: XP, her verdict, her note
 ```
 
 ## Sessions per day
@@ -56,14 +57,22 @@ Her verdict + XP + summary + image saved to your history
 The counter is rolling, not midnight-based. If you start a session at
 8pm Monday, you can start the next free one at 8pm Tuesday.
 
-## What the Domina knows when she plans a session
+A session counts the moment it starts, whatever happens to it after.
+Safeworded and timed-out sessions use up the free slot too.
+
+## What the Domina knows when she runs a session
 
 - Your level
-- Your active fetishes (anything you marked as Curious, Like, or Love)
+- Your active fetishes (anything you rated at one heart or more)
 - Your hard limits (as forbidden topics, never as suggestions)
 - Your inventory (so she can ask you to use items you actually own)
+- Your long-term goal and your standing rules
 - Her own personality and current mood
-- A short memory of your last few sessions
+- The notes she has written about you, picked for what you just said
+
+She does not get the title, the difficulty or the rating of an older
+session. What a finished session leaves behind is her mood and those
+notes. See [Her memory](../communication/her-memory.md).
 
 ## What the Domina never does
 

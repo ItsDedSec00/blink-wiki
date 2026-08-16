@@ -31,18 +31,19 @@ restraints and ritual objects live.
 
 For each item:
 
-- A **subcategory** (from above).
+- A **subcategory** (from above, required).
 - A **name** ("Padded leather wrist cuffs - black, lockable").
-- A **note** for size, key location, time limits, or any caveat.
-- Optional **fetish tags**, picked from your own fetish list.
+- A **description** for size, key location, time limits, or any caveat.
+- An optional **image link**, which puts a thumbnail on the item row.
+- Optional **fetish tags**, picked from the fetish catalogue.
 
 Once the item is saved you can also give it a **Use** rating of one to
 three hearts, and switch it off entirely when you do not want it in
 play.
 
-Notes matter most in this tab. The Domina reads them for sizing
-("medium plug only", "tight fit on the ring gag") and for safety limits
-("no longer than 30 minutes").
+Descriptions matter most in this tab. She looks them up when she needs
+to know what a piece is for, so write down sizing ("medium plug only",
+"tight fit on the ring gag") and any limit you keep to.
 
 ## Restraints and safety
 
@@ -63,15 +64,17 @@ here. The Domina then:
 
 - References it across sessions ("you are still locked").
 - Plans denial-themed sessions around it.
-- Respects any **time limits** in your note. If you wrote "no longer
-  than 7 days" she will not push past that.
+
+A time limit you write into the description is a note she can read, not
+a rule the app enforces. The real lock timer lives in
+[Chastity](../features/chastity.md).
 
 ## Collars
 
 Collars are stored here, but their **meaning** is set on the
-[Fetishes > BDSM](../fetishes/bdsm.md) interest list (Collaring - Private,
+[Fetishes > BDSM](../fetishes/bdsm.md) rating list (Collaring - Private,
 Collaring - Public). The Domina treats collaring as a ritual when the
-fetish is at Love level and a collar item is in your inventory.
+fetish is rated highly and a collar item is in your inventory.
 
 ## Items you do not own
 

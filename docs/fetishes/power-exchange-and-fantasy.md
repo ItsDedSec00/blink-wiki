@@ -1,6 +1,6 @@
 ---
 title: Power Exchange & Fantasy
-description: The Power Exchange & Fantasy category - 9 entries spanning mind play, identity scenarios, and structured fantasy.
+description: The Power Exchange & Fantasy category - 13 entries spanning mind play, identity scenarios, and structured fantasy.
 tags:
   - fetishes
   - power-exchange
@@ -26,6 +26,10 @@ for that.
 - **Gender Swap** - Fantasy scenarios involving a change of gender.
 - **Sex Worker Role-play** - Scenarios involving escort, prostitution, or transactional dynamics.
 - **Trans Character** - Scenarios or fantasies involving a trans identity or character.
+- **Financial Domination / Findom** - Arousal from paying tribute, gifting, and surrendering control over money to a dominant.
+- **Gentle Domination / Gentledom** - Dominance expressed through warmth, praise, and patient control rather than harshness or cruelty.
+- **Futanari** - Fantasy of futanari characters, feminine figures with both a penis and a vulva.
+- **Cuckolding** - Arousal from a partner's intimacy with someone else, often carrying an element of humiliation.
 
 ## How the Domina uses this category
 
