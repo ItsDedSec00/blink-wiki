@@ -100,10 +100,6 @@ A **Session Complete** card lands in the chat thread:
 The dashboard keeps the running totals: sessions completed, sessions
 this week, total XP, and your level bar.
 
-On **Premium Plus** the card also carries an **Export as PDF** link for
-that session. See
-[Session PDF Export](../features/session-pdf-export.md).
-
 ## You are done
 
 That is the loop: chat - propose - confirm - play - end - summary card.

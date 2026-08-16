@@ -161,7 +161,6 @@ nav:
       - Expose: features/expose.md
       - Findom: features/findom.md
       - Notifications: features/notifications.md
-      - Session PDF export: features/session-pdf-export.md
       - Mistrix Companion: features/mistrix-bridge.md
       - Suggestions: features/suggestions.md
   - Tiers:

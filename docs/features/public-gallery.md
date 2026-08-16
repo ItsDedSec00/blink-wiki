@@ -23,9 +23,9 @@ your account.
   offers you an upgrade.
 - **Premium** and **Premium Plus** see the full feed.
 
-A shared image also gets a page of its own outside the app. Anyone
-handed that link can open it, with no MISTRIX account and no sign-in.
-The **Share link** button on an image copies exactly that address.
+A shared image or clip also gets a page of its own outside the app.
+Anyone handed that link can open it, with no MISTRIX account and no
+sign-in. The **Share link** button copies exactly that address.
 
 ## Sharing one of your images
 
@@ -43,9 +43,10 @@ includes people who have no MISTRIX account and reached it through a
 link. The confirmation step says so as well. Treat the prompt as part
 of what you are publishing.
 
-Video clips work the same way. Open a clip in your gallery and tap
-**Share publicly**. Clips appear in the feed inside the app, but they
-do not get a link of their own.
+Video clips work exactly the same way. Open a clip in your gallery, tap
+**Share publicly**, read the same confirmation and confirm. The clip
+joins the feed, carries its prompt with it, and gets its own **Share
+link** like an image does.
 
 ## Unsharing
 

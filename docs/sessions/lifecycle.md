@@ -127,6 +127,7 @@ After a session ends in any state, the app keeps:
 The conversation itself stays in your chat, under your PIN, like the
 rest of it. Photos you sent and images she made stay in your gallery.
 
-None of the stored session record is shown back to you in the app. It
-is what the PDF export prints, on Premium Plus. Finished sessions are
-removed automatically 365 days after they started.
+Of that record, the XP, her verdict, and the line she left with it come
+back on the Session Complete card. Her written summary and your own
+rating are not shown there. Finished sessions are removed automatically
+365 days after they started.

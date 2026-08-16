@@ -124,7 +124,8 @@ tap **Delete & Start Over**. **Cancel** backs out and changes nothing.
   the **Dominas** screen.
 
 There is no undo and no grace period. If you want to keep anything of
-hers, do it first: download the images you want and save any session
-you care about. A [data export](../account/data-export.md) run before
-you start over is the only copy you will have afterwards, and the parts
-your PIN locks, her chat included, are locked in it too.
+hers, do it first: download the images you want and copy out anything
+from your chat with her that you care about. A
+[data export](../account/data-export.md) run before you start over is
+the only copy you will have afterwards, and the parts your PIN locks,
+her chat included, are locked in it too.

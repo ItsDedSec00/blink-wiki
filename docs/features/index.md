@@ -1,6 +1,6 @@
 ---
 title: Features
-description: AI Studio, routines, chastity, app blocking, Expose, Findom, notifications, session PDFs and the companion app.
+description: AI Studio, routines, chastity, app blocking, Expose, Findom, notifications and the companion app.
 tags:
   - features
   - overview
@@ -23,7 +23,6 @@ respects the same safety rules.
 - [Expose](./expose.md) - the opt-in public board she can publish to.
 - [Findom](./findom.md) - opt-in financial-domination flow with Charm-wallet hard gating.
 - [Notifications](./notifications.md) - messages from her when the app is closed, and how often they come.
-- [Session PDF export](./session-pdf-export.md) - download a single session as a portable PDF.
 - [Mistrix Companion](./mistrix-bridge.md) - the optional Android app, and the six permissions it asks for.
 - [Suggestions](./suggestions.md) - post an idea for MISTRIX and vote on other people's.
 
@@ -39,7 +38,6 @@ respects the same safety rules.
 | Expose | **Features > Expose** for the settings; the board is **Expose** in the bottom bar | any tier; off until you turn it on |
 | Findom | **Features > Findom** | any tier; off until you turn it on |
 | Notifications | **Account > Notifications** | any tier; the High setting needs a paid plan |
-| Session PDF export | **Export as PDF** on the Session Complete card in chat | Premium Plus |
 | Mistrix Companion | **Account > Android app** | any tier; Android only, and not on the Play Store |
 | Suggestions | **Account > Suggestions** | any signed-in user |
 
@@ -56,8 +54,7 @@ respects the same safety rules.
 - **Chastity and app blocking** reach into the physical world. Both have
   an exit that does not depend on your Domina agreeing. Read those two
   pages before you turn either on.
-- **The only thing that leaves MISTRIX** is an image you post to the
-  public gallery from AI Studio. That one gets a link anyone can open,
-  with no account. Everything else, the Expose board included, stays
-  inside the app behind a sign-in. See
-  [Public gallery](./public-gallery.md).
+- **An image or clip you post to the public gallery from AI Studio
+  leaves MISTRIX.** It gets a link anyone can open, with no account.
+  The Expose board is different: it is public to members, but it sits
+  behind a sign-in. See [Public gallery](./public-gallery.md).

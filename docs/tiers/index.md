@@ -36,7 +36,6 @@ actions, on any plan including Free.
 | Free AI Studio points / day | 3 | 10 | 30 |
 | Public gallery browse | 30 newest | full | full |
 | Findom | yes | yes | yes |
-| Session PDF export | no | no | yes |
 
 ## Charms
 

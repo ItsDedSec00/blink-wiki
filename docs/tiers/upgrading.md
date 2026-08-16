@@ -73,8 +73,8 @@ through. You do not have to do anything else.
 What you keep: everything, including your existing personal Domina.
 
 What changes: you can create up to two more personal Dominas, your
-daily free AI Studio points go to 30, your active-routine cap goes from
-10 to 20, and you can export a finished session as a PDF.
+daily free AI Studio points go to 30, and your active-routine cap goes
+from 10 to 20.
 
 ## Downgrading from Premium Plus to Premium
 
@@ -92,7 +92,6 @@ What changes:
 - Your daily free AI Studio points go back to 10.
 - Your active-routine cap goes back to 10. Routines over that number
   are not removed; you just cannot add another until you are under it.
-- PDF export of sessions is no longer available.
 
 ## Downgrading to Free
 
@@ -182,7 +181,8 @@ Nothing you made on a paid plan is deleted when your plan changes.
   plan you are on.
 - Personal Dominas are never deleted by a plan change. Their names,
   settings, portraits, and history stay put.
-- Session history and summaries stay readable.
+- Finished sessions and their summaries are not deleted by a plan
+  change.
 
 A plan change limits what you can make and use next. It does not take
 away what you have already made.

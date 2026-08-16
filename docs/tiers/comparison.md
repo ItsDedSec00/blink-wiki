@@ -40,7 +40,6 @@ Domina, one session a day, and most features in a limited form.
 | **Notification frequency High** | no | yes | yes |
 | **Findom** | yes (opt-in) | yes (opt-in) | yes (opt-in) |
 | **Charm wallet** | yes | yes | yes |
-| **Session PDF export** | no | no | yes |
 | **Switch Dominas without data loss** | no (switch clears the old Domina's chat, history, and memory) | yes | yes |
 | **Mistrix Companion app** | yes | yes | yes |
 
@@ -75,9 +74,10 @@ You probably want **Premium** if:
 
 You probably want **Premium Plus** if:
 
-- You want **multiple** personal Dominas you can switch between.
-- You want the largest daily allowance of free AI Studio points.
-- You want to download sessions as PDF.
+- You want up to **three** personal Dominas you can switch between,
+  instead of one.
+- You want **30** free AI Studio points a day instead of 10.
+- You want **20** active routines instead of 10.
 
 ## How to upgrade
 

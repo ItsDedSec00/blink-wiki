@@ -84,10 +84,9 @@ username is freed and can theoretically be claimed by a new user later.
 If you might want anything later, **export first**:
 
 - Run [Data Export](./data-export.md). Save the JSON.
-- Download any sessions you want to keep. On Premium Plus, **Export as
-  PDF** sits on the Session Complete card in the chat. On Free and
-  Premium there is no download and no link you can keep, so copy the
-  summary text out yourself.
+- Copy out anything from a session you want to keep. The conversation
+  itself is in your chat, and your session text and summaries are in
+  the JSON.
 - Save any AI Studio images you want to keep.
 
 ## Deletion vs cancellation vs sign-out

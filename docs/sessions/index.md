@@ -20,7 +20,7 @@ finish it, let it time out, or end it instantly with the safe word.
 - [Difficulty levels](./difficulty-levels.md) - why the number is always 3, and what varies instead.
 - [Photo uploads](./photo-uploads.md) - when to send her a photo, what she does with it.
 - [Using the safe word](./using-the-safe-word.md) - how, when, and what happens after.
-- [After the session](./after-the-session.md) - rating, her verdict, XP, summary, aftercare, export.
+- [After the session](./after-the-session.md) - rating, her verdict, XP, summary, aftercare.
 
 ## A session at a glance
 

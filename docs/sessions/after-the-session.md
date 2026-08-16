@@ -1,6 +1,6 @@
 ---
 title: After the Session
-description: Rating, her verdict, XP, the summary, aftercare, and the PDF export.
+description: Rating, her verdict, XP, the summary, and aftercare.
 tags:
   - sessions
   - rating
@@ -68,8 +68,8 @@ your XP and there is no control that nudges it.
 ## 4. The summary
 
 A two-to-four sentence summary is written by the Domina herself and
-saved with the session. It is not shown anywhere in the app. It is
-what the PDF export prints.
+saved with the session. It is kept on the record. The Session Complete
+card does not show it.
 
 ## 5. Aftercare
 
@@ -84,18 +84,12 @@ After a safe word the same thing is offered as **Start Aftercare**,
 under her acknowledgement. That version is pure reassurance. She does
 not go over how the session went unless you raise it yourself.
 
-## 6. Keeping and exporting
+## 6. What is kept
 
 The Session Complete card stays in the conversation where it landed.
-There is no session history screen. Nothing about a session is public,
-and no screen in the app makes a link to one.
-
-The card carries one action:
-
-- **Export as PDF.** **Premium Plus only**, only for a session that
-  ended normally, and only in the chat with your own Domina. A session
-  you ran with a preset Domina has no export link. See
-  [Session PDF Export](../features/session-pdf-export.md).
+There is no session history screen, so scroll back through the chat if
+you want to find an older card. The dashboard keeps the running counts:
+sessions completed, sessions this week, and your level and XP progress.
 
 There is no button that deletes a single session. Finished sessions are
 removed automatically 365 days after they started. Photos you sent and
@@ -106,12 +100,11 @@ Delete those from the gallery yourself.
 
 | End state | What you see |
 |---|---|
-| Completed normally | Rating, her verdict, XP, summary, PDF export on Premium Plus. |
+| Completed normally | Rating, her verdict, and XP. A summary is written and stored. |
 | Safeworded | A short acknowledgement from her in the chat, with aftercare offered. No XP, no verdict, no summary. |
 | Left alone too long | A **Session closed** notice the next time you open the chat, telling you how long the session had been idle. No XP, no verdict, no summary. |
 
-Neither of the last two can be rated afterwards, neither awards XP, and
-neither can be exported as a PDF. Both still count against your free
-daily session. A session you walked away from does not make her think
-worse of you. Her mood drifts back toward neutral on its own while you
-are away.
+Neither of the last two can be rated afterwards and neither awards XP.
+Both still count against your free daily session. A session you walked
+away from does not make her think worse of you. Her mood drifts back
+toward neutral on its own while you are away.
