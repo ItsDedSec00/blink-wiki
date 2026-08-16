@@ -1,0 +1,15 @@
+# MkDocs build output
+/site/
+
+# Python virtualenv (local builds)
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp

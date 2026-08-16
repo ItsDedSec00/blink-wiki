@@ -1,0 +1,183 @@
+site_name: MISTRIX Wiki
+site_description: Help center for MISTRIX - the dark-luxury AI Domina PWA.
+site_url: https://docs.mistrix.ai/
+repo_url: https://github.com/ItsDedSec00/mistrix-wiki
+repo_name: ItsDedSec00/mistrix-wiki
+edit_uri: edit/main/docs/
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: en
+  custom_dir: overrides
+  palette:
+    - scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  font:
+    text: Inter
+    code: DM Mono
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://app.mistrix.ai
+      name: MISTRIX app
+    - icon: fontawesome/brands/github
+      link: https://github.com/ItsDedSec00/mistrix-wiki
+      name: Wiki source
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+plugins:
+  - search
+  - tags
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - getting-started/index.md
+      - What is MISTRIX?: getting-started/what-is-mistrix.md
+      - Create your account: getting-started/create-account.md
+      - Choose a Domina: getting-started/choose-a-domina.md
+      - Onboarding walkthrough: getting-started/onboarding-walkthrough.md
+      - Your first session: getting-started/your-first-session.md
+  - The Domina:
+      - the-domina/index.md
+      - How she speaks: the-domina/how-she-speaks.md
+      - Preset vs personal: the-domina/preset-vs-personal.md
+      - Personality and mood: the-domina/personality-and-mood.md
+      - Character shots: the-domina/character-shots.md
+  - Sessions:
+      - sessions/index.md
+      - Lifecycle: sessions/lifecycle.md
+      - Difficulty levels: sessions/difficulty-levels.md
+      - Photo uploads: sessions/photo-uploads.md
+      - Using the safe word: sessions/using-the-safe-word.md
+      - After the session: sessions/after-the-session.md
+  - Fetishes:
+      - fetishes/index.md
+      - Interest levels: fetishes/interest-levels.md
+      - Hard limits: fetishes/hard-limits.md
+      - General Sex Acts: fetishes/general-sex-acts.md
+      - Bodily Fluids: fetishes/bodily-fluids.md
+      - Body & Worship: fetishes/body-and-worship.md
+      - Clothing & Fetish Wear: fetishes/clothing-and-fetish-wear.md
+      - BDSM: fetishes/bdsm.md
+      - Impact & Pain Play: fetishes/impact-and-pain-play.md
+      - Power Exchange & Fantasy: fetishes/power-exchange-and-fantasy.md
+      - Misc Kinks: fetishes/misc-kinks.md
+  - Communication:
+      - communication/index.md
+      - How she listens: communication/how-she-listens.md
+      - Writing good messages: communication/writing-good-messages.md
+      - Goal and rules: communication/standing-rules.md
+      - Choosing her model: communication/model-selector.md
+      - What she cannot do: communication/what-she-cannot-do.md
+      - Tone and mood: communication/tone-and-mood.md
+      - Her memory: communication/her-memory.md
+      - Photos in chat: communication/photos-in-chat.md
+  - Inventory:
+      - inventory/index.md
+      - Toys: inventory/toys.md
+      - Clothing: inventory/clothing.md
+      - Accessories: inventory/accessories.md
+  - Safety:
+      - safety/index.md
+      - Safe word: safety/safe-word.md
+      - Hard limits explained: safety/hard-limits-explained.md
+      - PIN and privacy: safety/pin-and-privacy.md
+      - Aftercare: safety/aftercare.md
+  - Features:
+      - features/index.md
+      - AI Studio: features/ai-studio.md
+      - Public gallery: features/public-gallery.md
+      - Routines and tasks: features/routines-and-tasks.md
+      - Chastity: features/chastity.md
+      - App blocking: features/app-blocking.md
+      - Expose: features/expose.md
+      - Findom: features/findom.md
+      - Notifications: features/notifications.md
+      - Session PDF export: features/session-pdf-export.md
+      - Mistrix Companion: features/mistrix-bridge.md
+      - Suggestions: features/suggestions.md
+  - Tiers:
+      - tiers/index.md
+      - Comparison: tiers/comparison.md
+      - Chat limits: tiers/chat-limits.md
+      - Charms: tiers/charms.md
+      - Referrals: tiers/referrals.md
+      - Upgrading: tiers/upgrading.md
+  - Account:
+      - account/index.md
+      - Settings: account/settings.md
+      - PIN and recovery: account/pin-and-recovery.md
+      - Data export: account/data-export.md
+      - Deleting your account: account/deleting-your-account.md
+      - Password reset: account/password-reset.md
+
+watch:
+  - overrides
