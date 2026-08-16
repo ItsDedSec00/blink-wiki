@@ -25,11 +25,10 @@ up" is the allowance. "Chat limit reached" is the ceiling.
 
 ## The free message allowance
 
-On Free you have **30 messages** ready to send. A new account starts
-with all 30. They refill over time: one comes back about every 30
-minutes, back up to 30.
+On Free you have **2 messages** ready to send. They refill over time:
+one comes back about every minute, back up to 2.
 
-It is one allowance across every Domina you talk to, not 30 each.
+It is one allowance across every Domina you talk to, not 2 each.
 
 Premium and Premium Plus have no message allowance at all. This limit
 exists only on Free.
@@ -62,8 +61,8 @@ You have four ways forward:
 
 Both Charm options are paid from your Charm balance. If the balance is
 too low, nothing is charged and you are asked to pick up a bundle
-first. Messages you buy sit on top of the free 30 and stay on your
-account until you send them.
+first. Messages you buy sit on top of the free allowance and stay on
+your account until you send them.
 
 ### Seeing what is left
 
